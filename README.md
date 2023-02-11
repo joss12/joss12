@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joss12
 - 👀 I’m interested in web development especially the backend side
-- 🌱 I’m currently learning node.js, java, react.js and vue.js
-- 💞️ I’m looking to collaborate on any projects or opensources communitoes
+- 🌱 I’m currently working on API DESIGNE using nodejs,Laravel,react.js,tailwind
+- 💞️ I’m looking forward to collaborate to any projects and learn from ohers
 - 📫 email: drh374@gmail.com, twitter: Eddy Mouity, instagram: meeja_boot_light
 
 <!---
