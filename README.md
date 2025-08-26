@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @joss12
-- 👀 I’m interested in web development especially the backend side
-- 🌱 I’m currently working on API DESIGNE using nodejs,Laravel,react.js,tailwind
-- 💞️ I’m looking forward to collaborate to any projects and learn from ohers
-- 📫 email: drh374@gmail.com; twitter: Eddy Mouity
+# Hi, I’m Eddy (@joss12)
+**Building scalable backend systems and modern developer tools.**
 
-<!---
-joss12/joss12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Backend & Systems Developer** focused on building reliable, scalable APIs and services.
+- **Tech Stack:** Node.js, Express, TypeScript, Golang, NestJS, MySQL, PostgreSQL, MongoDB, Docker.
+- **Currently Working On:** API design, backend frameworks, and real-time systems.
+- **Open to Collaboration:** Always ready to learn and contribute to impactful projects.
+- **Contact:** [Email](mailto:drh374@gmail.com) | [X](https://x.com/mouity_eddy)
+
+
